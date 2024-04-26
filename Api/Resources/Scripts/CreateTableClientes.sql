@@ -1,0 +1,6 @@
+CREATE TABLE Clientes (
+    Id INT PRIMARY KEY IDENTITY,
+    Nombre NVARCHAR(100),
+    Email NVARCHAR(100),
+    ApiKey NVARCHAR(100)
+	);
