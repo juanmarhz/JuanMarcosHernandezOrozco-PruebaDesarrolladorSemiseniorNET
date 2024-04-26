@@ -1,4 +1,5 @@
 # Juan Marcos Hernández Orozco - Prueba desarrollador Semisenior .NET
+# Punto 6 (Diseño Tecnico)
 
 Este proyecto presenta como objetivo principal, brindar como solución para los clientes, la correcta asignación de números para la participación en sorteos. Esto por medio de un sistema con arquitectura hexagonal y principios SOLID, que ofrece dos Endpoints, uno para la creación de productos a sortear, y otro para la asignación de números a los clientes.
 
